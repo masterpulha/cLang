@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <Windows.h>
 
-
-
 int main(void)
 {
     SetConsoleTitle("ReturnVars");
@@ -20,4 +18,6 @@ int main(void)
         scanf("%s", quit);
         count++;
     }
+    
+    return 0;
 }
