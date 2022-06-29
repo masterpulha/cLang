@@ -30,4 +30,4 @@ Name - character array that doesnt change: Pedro
 
 cheat.c 
 
-Change the variables of returnVars.
+Changes the variables of returnVars.
